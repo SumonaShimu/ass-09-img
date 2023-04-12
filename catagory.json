@@ -1,0 +1,30 @@
+[
+    {
+        "id":"cat01",
+        "logo":"Icons/accounts.png",
+        "name":"Account & Finance",
+        "available":300
+
+    },
+    {
+        "id":"cat02",
+        "logo":"Icons/business.png",
+        "name":"Creative Design", 
+        "available":100
+
+    },
+    {
+        "id":"cat03",
+        "logo":"Icons/social-media.png",
+        "name":"Marketing & Sales",
+        "available":150 
+
+    },
+    {
+        "id":"cat04",
+        "logo":"Icons/chip.png",
+        "name":"Engineering Job",
+        "available":"224"
+
+    }
+]
